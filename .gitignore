@@ -1,5 +1,6 @@
 #Folder Visual Studio Code
 ./output
+.vscode
 
 # outputs?
 *.exe
